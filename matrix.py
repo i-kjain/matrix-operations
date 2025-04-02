@@ -24,6 +24,9 @@ V = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
 # Compute basis (orthonormal basis using Gram-Schmidt process)
 basis = orth(V)
 
+# Compute span (rank of matrix V)
+span_dimension = np.linalg.matrix_rank(V)
+
 # Print results
 print("Addition:\n", addition)
 print("\n")
@@ -45,3 +48,4 @@ print("Are Eigenvectors Orthogonal?:", orthogonality_check)
 print("\n")
 print("Basis of Vector Space:\n", basis)
 print("\n")
+print("Span Dimension of V:", span_dimension)

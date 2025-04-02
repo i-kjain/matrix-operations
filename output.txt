@@ -44,3 +44,4 @@ Basis of Vector Space:
  [-0.82633754 -0.38794278]]
 
 
+Span Dimension of V: 2

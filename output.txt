@@ -1,0 +1,46 @@
+Addition:
+ [[7 5]
+ [4 5]]
+
+
+Subtraction:
+ [[-3  1]
+ [-2  3]]
+
+
+Matrix Multiplication:
+ [[19  7]
+ [17  6]]
+
+
+Element-wise Multiplication:
+ [[10  6]
+ [ 3  4]]
+
+
+Determinant of A: 5.0
+
+
+Inverse of A:
+ [[ 0.8 -0.6]
+ [-0.2  0.4]]
+
+
+Eigenvalues:
+ [1.+0.j 5.+0.j]
+
+
+Eigenvectors:
+ [[-0.9486833  -0.70710678]
+ [ 0.31622777 -0.70710678]]
+
+
+Are Eigenvectors Orthogonal?: False
+
+
+Basis of Vector Space:
+ [[-0.21483724  0.88723069]
+ [-0.52058739  0.24964395]
+ [-0.82633754 -0.38794278]]
+
+
